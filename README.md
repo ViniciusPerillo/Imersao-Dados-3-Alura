@@ -1,4 +1,6 @@
 # Imersao Dados 3 Alura
+![Screenshot_3](https://user-images.githubusercontent.com/76188994/117864346-11836280-b26b-11eb-85e4-cd474d9459d8.jpg)
+
 ## Sobre
 
 Projeto criado durante o evento Imersão Dados feito pela alura. O evento consistiu em uma maratona sobre Data Science, principalmente o primeiro contato pra quem nunca teve, feita em python.
