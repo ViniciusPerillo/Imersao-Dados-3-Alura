@@ -6,6 +6,13 @@
 Projeto criado durante o evento Imersão Dados feito pela alura. O evento consistiu em uma maratona sobre Data Science, principalmente o primeiro contato pra quem nunca teve, feita em python.
 
 ---
+## Ferramentas
+- [Pandas](https://pandas.pydata.org/)
+- [MatPlotLib](https://matplotlib.org/stable/index.html)
+- [Seaborn](https://seaborn.pydata.org/)
+- [Scikit-Learn](https://scikit-learn.org/stable/)
+
+---
 
 ## Autor
 #### Feito por Vinícius Gonçalves Perillo
